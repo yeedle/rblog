@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nlayout: page\ntitle: About Me\n---\n\nMy name is Yeedle. You can find me on [Twitter](http://twitter.com/yeedle) and on [GitHub](http://github.com/yeedle). ",
+    "created" : 1494281882423.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4087989186",
+    "id" : "4B4B747B",
+    "lastKnownWriteTime" : 1485270113,
+    "last_content_update" : 1485270113,
+    "path" : "~/Documents/blog/about.md",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

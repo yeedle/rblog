@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "baseurl = \"/\"\nrelativeurls = true\nlanguageCode = \"en-us\"\ntitle = \"A Blog\"\ntheme = \"lanyon-hugo\"\ngoogleAnalytics = \"\"\ndisqusShortname = \"\"\nignoreFiles = [\"\\\\.Rmd$\", \"_files$\", \"_cache$\"]\n\n\n[permalinks]\n    post = \"/:year/:month/:day/:slug/\"\n\n[[menu.main]]\n    name = \"About\"\n    url = \"/about/\"\n[[menu.main]]\n    name = \"GitHub\"\n    url = \"https://github.com/yeedle\"\n[[menu.main]]\n    name = \"Twitter\"\n    url = \"https://twitter.com/yeedle\"\n\n[params]\n\n DateForm = \"Mon Jan _2 15:04:05 2006\"\n    description = \"pseudorandom thoughts and projects\"\n\n    # options for highlight.js (version, additional languages, and theme)\n    highlightjsVersion = \"9.11.0\"\n    highlightjsCDN = \"//cdn.bootcss.com\"\n    highlightjsLang = [\"r\", \"yaml\"]\n    highlightjsTheme = \"github\"\n\n    MathJaxCDN = \"//cdn.bootcss.com\"\n    MathJaxVersion = \"2.7.1\"\n\n    [params.logo]\n    url = \"logo.png\"\n    width = 50\n    height = 50\n    alt = \"Logo\"\n\n",
+    "created" : 1494276112114.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3283560011",
+    "id" : "F0198A06",
+    "lastKnownWriteTime" : 1494276770,
+    "last_content_update" : 1494276770093,
+    "path" : "~/projects/blog/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
